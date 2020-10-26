@@ -1,0 +1,23 @@
+- name: GCP
+  weight: 3
+
+- name: Azure
+  weight: 3
+
+- name: Lambda
+  weight: 5
+
+- name: ECS
+  weight: 5
+
+- name: RDS
+  weight: 4
+
+- name: DynamoDB
+  weight: 4
+
+- name: EC2
+  weight: 3
+
+- name: API Gateway
+  weight: 2
