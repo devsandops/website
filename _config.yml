@@ -14,7 +14,7 @@ baseurl: "/"
 username: Devs & Ops
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: an elite team composed of Software Engineers and DevOps.
+typing_text: an elite team of Software Engineers and DevOps.
 # email: Your E-Mail address for the email button.
 email: info@devsandops.com
 # For every social button you want to display, set your username or userid
@@ -23,7 +23,7 @@ email: info@devsandops.com
 github_username: 
 codepen_username: 
 dev_username: 
-linkedin_username: 
+linkedin_username: company/devsandops
 twitter_username: devsandops
 
 # ABOUT ME SECTION
