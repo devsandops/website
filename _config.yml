@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Us
 # about_me_description: This will be displayed under the title.
-about_me_description: Whether you want to build a brand new site with our Devs (Developers) or if you just need assistance mantaining one up and running with our Ops (Operators), we are here to help! <br> We have a professional team with a wide set of skills. We have collaborated with many Startups to grow their business from a simple Idea to a well-established Product. <br> Feel free to reach out to us!
+about_me_description: Whether you want to build a brand new site with our Devs (Developers) or if you just need assistance maintaining one up and running with our Ops (Operators), we are here to help! <br> We have a professional team with a wide set of skills. We have collaborated with many Startups to grow their business from a simple Idea to a well-established Product. <br> Feel free to reach out to us!
 
 # SKILLS SECTION
 # show_skills_card:
